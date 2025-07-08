@@ -10,20 +10,7 @@ Aplicația este un **sistem de ambalare produse** care:
 - Afișează ambalajul recomandat
 
 
-##  Arhitectură
-Sistem de Ambalare Produse/
-├── ProductPackaging/              # Proiect principal
-│   ├── Interfaces/                # IProduct, IPackagingStrategy
-│   ├── Products/                  # Book, Glass, Laptop
-│   ├── Strategy/                  # 3 tipuri de ambalare
-│   ├── Factory/                   # ProductFactory.cs
-│   ├── Services/                  # PackagingService.cs
-│   └── Program.cs                 # Punctul de start
-│
-└── ProductPackaging.Tests/        # Proiect de teste xUnit
-    └── PackagingTests.cs
-
-
+![image](https://github.com/user-attachments/assets/abf3579d-c78b-4f88-82f9-cfc5dc9216d0)
 
 ##  Design Patterns folosite
 
