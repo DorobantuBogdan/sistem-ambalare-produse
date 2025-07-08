@@ -1,0 +1,7 @@
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ProductPackaging.Tests
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\obj\Debug\net8.0\ProductPackaging.Tests.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\obj\Debug\net8.0\ProductPackaging.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\obj\Debug\net8.0\ProductPackaging.Tests.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\obj\Debug\net8.0\ProductPackaging.Tests.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\obj\Debug\net8.0\ProductPackaging.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\Master\Medii si platforme de dezvoltare avansate\Sistem de ambalare produse\ProductPackaging\ProductPackaging.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_ProductPackaging.Tests

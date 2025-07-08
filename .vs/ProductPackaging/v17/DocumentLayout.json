@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging\\products\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|solutionrelative:productpackaging\\products\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging\\products\\glass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|solutionrelative:productpackaging\\products\\glass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging\\products\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|solutionrelative:productpackaging\\products\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging\\services\\packagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|solutionrelative:productpackaging\\services\\packagingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE65F44B-9788-40F4-AA1E-55913E60CC94}|ProductPackaging.Tests\\ProductPackaging.Tests.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging.tests\\packagingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE65F44B-9788-40F4-AA1E-55913E60CC94}|ProductPackaging.Tests\\ProductPackaging.Tests.csproj|solutionrelative:productpackaging.tests\\packagingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|solutionrelative:productpackaging\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|c:\\users\\bogda\\onedrive\\desktop\\master\\medii si platforme de dezvoltare avansate\\sistem de ambalare produse\\productpackaging\\productpackaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B4DF96-9CFC-4BBD-A59D-1C38E5F5DDB5}|ProductPackaging\\ProductPackaging.csproj|solutionrelative:productpackaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Products\\Laptop.cs",
+              "RelativeDocumentMoniker": "ProductPackaging\\Products\\Laptop.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Products\\Laptop.cs",
+              "RelativeToolTip": "ProductPackaging\\Products\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:16:23.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Glass.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Products\\Glass.cs",
+              "RelativeDocumentMoniker": "ProductPackaging\\Products\\Glass.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Products\\Glass.cs",
+              "RelativeToolTip": "ProductPackaging\\Products\\Glass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:16:14.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Products\\Book.cs",
+              "RelativeDocumentMoniker": "ProductPackaging\\Products\\Book.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Products\\Book.cs",
+              "RelativeToolTip": "ProductPackaging\\Products\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:14:26.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackagingService.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Services\\PackagingService.cs",
+              "RelativeDocumentMoniker": "ProductPackaging\\Services\\PackagingService.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Services\\PackagingService.cs",
+              "RelativeToolTip": "ProductPackaging\\Services\\PackagingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:14:04.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackagingTests.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging.Tests\\PackagingTests.cs",
+              "RelativeDocumentMoniker": "ProductPackaging.Tests\\PackagingTests.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging.Tests\\PackagingTests.cs",
+              "RelativeToolTip": "ProductPackaging.Tests\\PackagingTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:06:46.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Factory\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "ProductPackaging\\Factory\\ProductFactory.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Factory\\ProductFactory.cs",
+              "RelativeToolTip": "ProductPackaging\\Factory\\ProductFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:59:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Program.cs",
+              "RelativeDocumentMoniker": "ProductPackaging\\Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\Master\\Medii si platforme de dezvoltare avansate\\Sistem de ambalare produse\\ProductPackaging\\ProductPackaging\\Program.cs",
+              "RelativeToolTip": "ProductPackaging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:54:21.021Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1456,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

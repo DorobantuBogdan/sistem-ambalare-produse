@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductPackaging",
+    "\\ProductPackaging.Tests",
+    "\\ProductPackaging\\Factory",
+    "\\ProductPackaging\\Interfaces",
+    "\\ProductPackaging\\Products",
+    "\\ProductPackaging\\Services",
+    "\\ProductPackaging\\Strategy"
+  ],
+  "SelectedNode": "\\ProductPackaging\\Products\\Laptop.cs",
+  "PreviewInSolutionExplorer": false
+}
